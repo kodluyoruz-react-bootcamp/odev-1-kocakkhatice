@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/kodluyoruz-react-bootcamp/odev-1-kocakkhatice#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.1",
+    "axios": "^0.21.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.6",
